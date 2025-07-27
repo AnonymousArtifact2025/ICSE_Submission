@@ -1,1 +1,1 @@
-We presented all the datasets and prompt designs of ReqCompleter, including the implementation of the prompt functions.
+We presented all the datasets and prompt designs of ReqCompleter, including the implementation of the prompt functions. The folders labeled RQ1 - RQ4 contain the preliminary review and analysis documents for the LLM. The final assessment results can be found in the OriginalData Excel spreadsheet. 
